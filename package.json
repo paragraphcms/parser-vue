@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@types/sanitize-html": "^2.16.1",
-    "marked": "^15.0.12",
+    "marked": "^18.0.0",
     "sanitize-html": "^2.17.5",
     "tsup": "^8.5.1",
     "typescript": "^5.9.3",
